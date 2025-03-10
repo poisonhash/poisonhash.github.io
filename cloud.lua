@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://poisonhash.github.io/index.html",true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poisonhash/cloud/refs/heads/main/cloud.lua",true))()
